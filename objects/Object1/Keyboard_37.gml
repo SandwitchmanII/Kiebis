@@ -12,3 +12,10 @@ x += -5;
 /// @DnDArgument : "xscale" "-1"
 image_xscale = -1;
 image_yscale = 1;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 3010B792
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "var" "Walk"
+Walk = 1;
